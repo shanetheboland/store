@@ -1,64 +1,8 @@
-# HTML Starter Project
+# Store
 
 ## What is this?
 
-View the project page at [http://github.com/shanetheboland/html-starter](http://github.com/shanetheboland/html-starter "HTML Starter - A basic starting point for new HTML projects")
-
-HTML Starter is a starting point for prototyping HTML5 SASS projects.
-Uses gulp to create a dev environment for rapidly prototyping sites. 
-
-## Features
-
-* sass compilation
-* sass folder structure
-* css minification
-* css linting
-* autoprefixer (automatically adds appropriate vendor prefixes) 
-* browser reload on filesave
-* local server for serving a static site
-* google fonts
-* grid system
-* favicons
-
-## Getting started
-
-* Create a new repo for your project on Github
-* In terminal run
-```bash
-    git clone git@github.com:shanetheboland/html-starter.git yourNewRepoName
-    cd yourNewRepoName
-    rm -rf .git
-    git init
-    git remote add origin git@github.com:yourUserName/yourNewRepoName.git
-```
-
-* git remote -v will allow you to check that you have changed the remote origin correctly. The output should look like:
-```bash
-    origin git@github.com:yourUserName/yourNewRepoName.git (fetch)
-    origin git@github.com:yourUserName/yourNewRepoName.git (push)
-```
-
-## Dev environment
-To set up a convenient dev environment run this at the root of mnml
-
-```bash
-npm install .
-```
-
-Then run
-
-```
-npm start
-```
-
-Gulp is a javascript task runner. It compiles sass, lints the compiled css, and
-sets up a browser-sync server so you can save your fingers from pressing ⌘+TAB + ⌘+r 
-every time you save a file.
-
-* Once you add & commit files you are ready to publish run:
-```bash
-git push origin master
-```
+View the project page at [http://github.com/shanetheboland/store](http://github.com/shanetheboland/store "Store - An e-commerce UI built with AngularJS")
 
 # Author
 
