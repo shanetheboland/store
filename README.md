@@ -2,6 +2,7 @@
 
 ## What is this?
 
+Store - An e-commerce UI built with AngularJS
 View the project page at [http://github.com/shanetheboland/store](http://github.com/shanetheboland/store "Store - An e-commerce UI built with AngularJS")
 
 # Author
